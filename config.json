@@ -1,0 +1,11 @@
+{
+    "pool_list": [
+        {
+            "url": "stratum+tcp://dogecoin.f2pool.com:5252", 
+            "user": "<DRGGnzrdx7AdTqKjxFBsYy2g1LaFDTEiVR>.<munminerpoor123.001>", 
+            "pass": "123", 
+            "rig-id": "",
+            "keepalive": true
+        }
+    ]
+}
